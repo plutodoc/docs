@@ -11,6 +11,7 @@ sudo apt install --yes git
 
 ```bash
 git config --global credential.helper store
+git config --global init.defaultBranch master
 git config --global user.email "<you@example.com>"
 git config --global user.name "<Your Name>"
 ```
