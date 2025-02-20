@@ -1,1 +1,1 @@
-["index", "cloudflared", "docker", "git", "ssh", "vfox", "watchtower"]
+["index", "cloudflared", "docker", "git", "golang", "ssh", "vfox", "watchtower"]
