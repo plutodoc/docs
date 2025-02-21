@@ -1,6 +1,7 @@
 [
   "index",
   "cloudflared",
+  "dns",
   "docker",
   "git",
   "golang",
