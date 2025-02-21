@@ -2,6 +2,11 @@ pre-commit:
   parallel: true
   commands:
     check:
-      run: yarn run check
+      run: npm run check
     format:
-      run: yarn run format
+      run: npm run format
+
+commit-msg:
+  commands:
+    "lint commit message":
+      run: npm run commitlint --edit {1}
