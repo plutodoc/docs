@@ -1,0 +1,13 @@
+# Search
+
+| Name           | Search engine                                    |
+| :------------- | :----------------------------------------------- |
+| Baidu          | https://www.baidu.com/s?wd=%s                    |
+| BiliBili       | https://search.bilibili.com/all?keyword=%s       |
+| DuckDuckGo     | https://duckduckgo.com/?q=%s                     |
+| Microsoft Bing | https://www.bing.com/search?q=%s                 |
+| Gitee          | https://so.gitee.com/?q=%s                       |
+| GitHub         | https://github.com/search?q=%s&type=repositories |
+| Go Package     | https://pkg.go.dev/search?q=%s                   |
+| Google         | https://www.google.com.hk/search?q=%s            |
+| YouTube        | https://www.youtube.com/results?search_query=%s  |
