@@ -17,5 +17,8 @@ export default defineConfig({
         content: 'https://github.com/web-infra-dev/rspress',
       },
     ],
+    enableScrollToTop: true,
+    hideNavbar: 'auto',
+    lastUpdated: true,
   },
 });
